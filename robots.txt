@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://shef-AIRE.github.io/sitemap.xml
